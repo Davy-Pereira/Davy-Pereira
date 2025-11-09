@@ -15,7 +15,7 @@
 </div>
 <br>
 
-- ⚔️ Ferramentas utilizadas para o desenvolvimento<br>
+- ⚔️ Ferramentas utilizadas para desenvolvimento<br>
 <div style="display: inline_block">
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
