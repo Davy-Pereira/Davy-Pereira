@@ -1,8 +1,11 @@
 ## Opa! Eu sou o Davi 👋
-
-- 🔭 Hoje trabalho com Full Stack
-- 🌱 Estudando Node.js - React - mongodb
-- 👾 Sobre
+<div style="flex">
+  <img img  height="200em" width= "900em" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/42a04980596159.5cecd303f22e9.gif" />
+</div>
+<br>
+- 🔭 Hoje trabalho com Full Stack<br>
+- 🌱 Estudando Node.js - React - mongodb<br>
+- 👾 Sobre<br>
   <br>
   Sou um programador no inicio da carreira em busca de melhoria continua e sempre buscando algo novo, pronto para colaborar
   com o desenvolvimento web tanto em front-end quanto back-end.<br>
