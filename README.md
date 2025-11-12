@@ -9,7 +9,7 @@
   <br>
   Sou um programador no inicio da carreira em busca de melhoria continua e sempre buscando algo novo, pronto para colaborar
   com o desenvolvimento web tanto em front-end quanto back-end.<br>
-  Estou animado em fazer parte da sua equipe.
+  Estou animado em fazer parte da sua equipe. <br>
   
 <div>
   <a href="https://github.com/Davy-Pereira">
