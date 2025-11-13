@@ -6,17 +6,17 @@
 - 🔭 Hoje trabalho com Full Stack<br>
 - 🌱 Estudando Node.js - React - mongodb<br>
 - 👾 Sobre<br>
-  <br>
   Sou um programador no inicio da carreira em busca de melhoria continua e sempre buscando algo novo, pronto para colaborar
   com o desenvolvimento web tanto em front-end quanto back-end.<br>
   Estou animado em fazer parte da sua equipe.
+  <h1></h1>
   <div>
-  <a href="https://github.com/Davy-Pereira">
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=davy-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-pereira&layout=compact&langs_count=16&theme=dracula"/>
+    <a href="https://github.com/Davy-Pereira">
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=davy-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-pereira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
-  
+  <h1></h1>
 
 - ⚔️ Ferramentas utilizadas para desenvolvimento<br>
 <div style="display: inline_block">
@@ -42,4 +42,3 @@
 
 
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Davy-Pereira&repo=Davy-Pereira&theme=react)](https://github.com/Davy-Pereira/Davy-Pereira)
