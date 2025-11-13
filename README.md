@@ -30,3 +30,7 @@
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 
+
+![snake gif](https://github.com/Davy-Pereira/Davy-Pereira/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-status.vercel.app/api/pin/?username=Davy-Pereira&repo=Davy-Pereira&theme=react)](https://github.com/Davy-Pereira/Davy-Pereira)
