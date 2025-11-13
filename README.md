@@ -36,7 +36,7 @@
 
 
 
-  ![snake animation](https://github.com/Davy-Pereira/Davy-Pereira/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Davy-Pereira/Davy-Pereira/output/snake.svg" alt="Snake animation" />
 
 
 
