@@ -7,11 +7,18 @@
 </div>
 <br>
 - 🔭 Hoje trabalho com Full Stack<br>
-- 🌱 Estudando Node.js - React - mongodb<br>
-- 👾 Sobre<br>
-  Sou um programador no inicio da carreira em busca de melhoria continua e sempre buscando algo novo, pronto para colaborar
-  com o desenvolvimento web tanto em front-end quanto back-end.<br>
-  Estou animado em fazer parte da sua equipe.
+- 🌱 Estudando Node.js - React - mongodb
+<br>
+<br>
+<div align=center>
+  👾 Sobre
+</div>
+  <br>
+  <div align=center>
+    Sou um programador no inicio da carreira em busca de melhoria continua e sempre buscando algo novo, pronto para colaborar
+    com o desenvolvimento web tanto em front-end quanto back-end.<br>
+    Estou animado em fazer parte da sua equipe.
+  </div>
   <h1></h1>
   <div align=center>
     <a href="https://github.com/Davy-Pereira">
