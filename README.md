@@ -1,5 +1,5 @@
 ## Opa! Eu sou o Davi 👋
-<div>
+<div align=center>
   <img img  height="200em" width= "900em" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/42a04980596159.5cecd303f22e9.gif" />
 </div>
 <br>
@@ -10,7 +10,7 @@
   com o desenvolvimento web tanto em front-end quanto back-end.<br>
   Estou animado em fazer parte da sua equipe.
   <h1></h1>
-  <div>
+  <div align=center>
     <a href="https://github.com/Davy-Pereira">
     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=davy-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-pereira&layout=compact&langs_count=16&theme=dracula"/>
@@ -18,8 +18,11 @@
 <br>
   <h1></h1>
 
-- ⚔️ Ferramentas utilizadas para desenvolvimento<br>
-<div style="display: inline_block">
+<div align=center>
+  - ⚔️ Ferramentas utilizadas para desenvolvimento<br>
+</div>
+<br>
+<div align=center>
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
     <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -35,8 +38,9 @@
 
 
 
-
+<div align=center>
   <img src="https://raw.githubusercontent.com/Davy-Pereira/Davy-Pereira/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
