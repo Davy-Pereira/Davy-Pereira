@@ -1,4 +1,7 @@
-## Opa! Eu sou o Davi 👋
+<div align=center>
+  <h1>Opa! Eu sou o Davi 👋</h1> 
+</div>
+<br>
 <div align=center>
   <img img  height="200em" width= "900em" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/42a04980596159.5cecd303f22e9.gif" />
 </div>
