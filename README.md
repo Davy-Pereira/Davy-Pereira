@@ -31,6 +31,15 @@
 </div>
 
 
-![snake gif](https://github.com/Davy-Pereira/Davy-Pereira/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-status.vercel.app/api/pin/?username=Davy-Pereira&repo=Davy-Pereira&theme=react)](https://github.com/Davy-Pereira/Davy-Pereira)
+
+
+
+
+  ![snake animation](https://github.com/Davy-Pereira/Davy-Pereira/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Davy-Pereira&repo=Davy-Pereira&theme=react)](https://github.com/Davy-Pereira/Davy-Pereira)
