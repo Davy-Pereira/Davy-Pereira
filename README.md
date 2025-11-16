@@ -22,8 +22,8 @@
   <h1></h1>
   <div align=center>
     <a href="https://github.com/Davy-Pereira">
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=davy-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-pereira&layout=compact&langs_count=16&theme=dracula"/>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Davy-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davy-pereira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
   <h1></h1>
