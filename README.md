@@ -20,10 +20,11 @@
     Estou animado em fazer parte da sua equipe.
   </div>
   <h1></h1>
+  
+
   <div align=center>
-    <a href="https://github.com/Davy-Pereira">
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Davy-pereira&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davy-pereira&layout=compact&langs_count=16&theme=blue"/>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davy-Pereira&layout=compact&theme=tokyonight"/>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Davy-Pereira&show_icons=true&theme=tokyonight"/>
 </div>
 <br>
   <h1></h1>
@@ -45,12 +46,14 @@
 
 
 
-
-
-
 <div align=center>
   <img src="https://raw.githubusercontent.com/Davy-Pereira/Davy-Pereira/output/snake.svg" alt="Snake animation" />
 </div>
+
+
+
+
+
 
 
 
