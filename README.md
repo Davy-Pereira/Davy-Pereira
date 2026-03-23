@@ -7,7 +7,7 @@
 </div>
 <br>
 - 🔭 Hoje trabalho com Full Stack<br>
-- 🌱 Estudando Node.js - React - mongodb
+- 🌱 Estudando Git and Terminal
 <br>
 <br>
 <div align=center>
