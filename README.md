@@ -29,10 +29,8 @@
 <br>
   <h1></h1>
 
-<div align=center>
-  - ⚔️ Ferramentas utilizadas para desenvolvimento<br>
-</div>
-<br>
+<h3 align="center">⚔️ Ferramentas utilizadas para desenvolvimento</h3>
+
 <p align="center">
   <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
