@@ -7,7 +7,7 @@
 </div>
 <br>
 - 🔭 Hoje trabalho com Full Stack<br>
-- 🌱 Estudando Git and Terminal
+- 🌱 Estudando Python Core
 <br>
 <br>
 <div align=center>
