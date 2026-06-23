@@ -8,6 +8,7 @@
 <br>
 - 🔭 Hoje trabalho com Full Stack<br>
 - 🌱 Estudando Python Core
+- 🎓 Cursando Ciências da Computação
 <br>
 <br>
 <div align=center>
